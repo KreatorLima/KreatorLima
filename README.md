@@ -4,7 +4,6 @@
 - 🌱 Estudo no Senai
 - 💬 Instagram para contato: rene.ryan23 
 - 📫 E-mail de contato: ryanrenesenai@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 -->
 
