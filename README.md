@@ -1,6 +1,5 @@
 ## Olá! eu sou Rene Ryan
 
-- 🔭 Atualmente estou estudando python
 - 🌱 Estudo no Senai
 - 💬 Instagram para contato: rene.ryan23 
 - 📫 E-mail de contato: ryanrenesenai@gmail.com
