@@ -4,7 +4,6 @@
 - 💬 Instagram para contato: rene.ryan23 
 - 📫 E-mail de contato: ryanrenesenai@gmail.com
 
--->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KreatorLima&show_icons=true&theme=dark)
