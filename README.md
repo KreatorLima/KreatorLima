@@ -5,10 +5,8 @@
 - 📫 E-mail de contato: ryanrenesenai@gmail.com
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KreatorLima&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KreatorLima&layout=donut-vertical&theme=tokyonight&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a)](https://github.com/KreatorLima)
+<br>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KreatorLima&show_icons=true&theme=tokyonight&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a)
 
 
