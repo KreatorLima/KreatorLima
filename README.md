@@ -28,3 +28,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KreatorLimaKreatorLima/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KreatorLima/KreatorLima/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+  <!-- REDES SOCIAIS -->
+  <p>
+    <a href="https://instagram.com/rene.ryan23" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
