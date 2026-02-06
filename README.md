@@ -1,4 +1,9 @@
-## Olá! eu sou Rene Ryan
+  <!-- TEXTO ANIMADO -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=66CCFF&width=435&lines=Ol%C3%A1,+meu+nome+%C3%A9+Rene+Ryan!;Seja+bem-vindo+ao+meu+GitHub!&fontSize=30" 
+    alt="Typing SVG" 
+  />
+
 
 - 🌱 Estudo no Senai
 - 💬 Instagram para contato: rene.ryan23 
