@@ -8,7 +8,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KreatorLima&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KreatorLima&show_icons=true&theme=dark)](https://github.com/KreatorLima/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KreatorLima&layout=donut-vertical&theme=tokyonight&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a)](https://github.com/KreatorLima)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KreatorLima&show_icons=true&theme=tokyonight&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a)
 
 
 <div style="display: inline_block"><br>
