@@ -21,8 +21,10 @@
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-plain.svg](https://www.flaticon.com/free-icon/c_6132222)">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/250px-PHP-logo.svg.png">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png?20160811101906">
  
 </div>
 
