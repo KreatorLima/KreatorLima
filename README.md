@@ -5,9 +5,9 @@
   />
 
 
-- 🌱 Estudo no Senai
-- 💬 Instagram para contato: rene.ryan23 
-- 📫 E-mail de contato: ryanrenesenai@gmail.com
+- Estudo no Senai
+- Instagram para contato: rene.ryan23 
+- E-mail de contato: ryanrenesenai@gmail.com
 
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KreatorLima&layout=donut-vertical&theme=tokyonight&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a)](https://github.com/KreatorLima)
