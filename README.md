@@ -4,10 +4,10 @@
     alt="Typing SVG" 
   />
 
+  
+<h1>Rene Ryan Alves de Lima</h1>
 
-- Atualmente estudando pelo SENAI
-- Inglês intermediário
-- Sonho de vida: Me tornar engenheiro de Software pelo Itaú
+Estudando Desenvolvimento de Sistemas pelo SENAI, cursando o Ensino Médio pelo SESI e inglês pelo CNA. Me interesso muito por tecnologias, jogos e futebol. Perfil criado para estudos e versionamento de projetos.
 
 
 
